@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AppBase</string>
+    <string name="ok">Ok</string>
+    <string name="major_version">1</string>
+    <string name="minor_version">1</string>
+    <string name="title_activity_home_screen">HomeScreenActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="android">Android</string>
+    <string name="login">Login</string>
+
+    <!--<string name="base_url_dev">http://200.46.75.118/MyCoServer-1.0QA/api/</string>-->
+    <string name="base_url_dev">http://23.21.154.231:8080/discovery/sds/wifi/</string>
+
+</resources>

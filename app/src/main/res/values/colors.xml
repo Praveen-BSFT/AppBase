@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="transparent">#00000000</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+	<color name="colorPrimaryBackground">#2DBD9B</color>
+    <color name="colorSecondaryBackground">#627789</color>
+	<color name="colorContentBackground">#FFFFFF</color>
+	<color name="colorPrimaryText">#FFFFFF</color>
+	<color name="colorPrimaryContentText">#323232</color>
+    <color name="PrimaryBackground">#2DBD9B</color>
+    <color name="SecondaryBackground">#627789</color>
+    <color name="SecondaryGradient">#7891A8</color>
+    <color name="PrimaryText">#FFFFFF</color>
+    <color name="SecondaryText">#FFFFFF</color>
+    <color name="PrimaryButton">#2DBD9B</color>
+    <color name="PrimaryButtonReverse">#FFFFFF</color>
+    <color name="AccentText">#2BAA85</color>
+    <color name="windowBackground">#E8F5F0</color>
+    <color name="ContentBackground">#FFFFFF</color>
+    <color name="PrimaryContentText">#323232</color>
+    <color name="SecondaryContentText">#646464</color>
+    <color name="TertiaryContentText">#969696</color>
+    <color name="Separators">#F0F0F0</color>
+    <color name="ControlBackground">#F8F8F8</color>
+    <color name="ControlText">#323232</color>
+    <color name="MenuBackground">#FFFFFF</color>
+    <color name="MenuText">#323232</color>
+    <color name="HeadersBackground">#F8F8F8</color>
+    <color name="HeadersText">#323232</color>
+    <color name="Watermark">#F0F0F0</color>
+    <color name="DimmedText">#CCCCCC</color>
+    <color name="SymbolicGreen">#28D47B</color>
+    <color name="SymbolicOrange">#FFB340</color>
+    <color name="SymbolicRed">#FF3347</color>
+    <color name="SymbolicGray">#CCCCCC</color>
+    <color name="Black">#000000</color>
+
+</resources>
